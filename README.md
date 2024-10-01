@@ -1,1 +1,1 @@
-# Pinball-game-intutive-
+# Pinball-game-intuitive
